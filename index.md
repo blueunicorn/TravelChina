@@ -7,7 +7,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <title>TravelChina - Your Smart Travel Companion</title>
-
+<link rel="stylesheet" href="https://blueunicorn.github.io/TravelChina/assets/swiper-bundle.min.css">
+<script src="https://blueunicorn.github.io/TravelChina/assets/swiper-bundle.min.js"></script>
 <style>
 :root{
     --primary:#082b6f;
@@ -395,31 +396,31 @@ Swipe, drag or wait for automatic slideshow.
 <div class="swiper-wrapper">
 
 <div class="swiper-slide">
-images/Designer-1.png
+https://blueunicorn.github.io/TravelChina/images/Designer-1.png
 </div>
 
 <div class="swiper-slide">
-images/Designer-2.png
+https://blueunicorn.github.io/TravelChina/images/Designer-2.png
 </div>
 
 <div class="swiper-slide">
-images/Designer-3.png
+https://blueunicorn.github.io/TravelChina/images/Designer-3.png
 </div>
 
 <div class="swiper-slide">
-images/Designer-4.png
+https://blueunicorn.github.io/TravelChina/images/Designer-4.png
 </div>
 
 <div class="swiper-slide">
-images/Designer-5.png
+https://blueunicorn.github.io/TravelChina/images/Designer-5.png
 </div>
 
 <div class="swiper-slide">
-images/Designer-6.png
+https://blueunicorn.github.io/TravelChina/images/Designer-6.png
 </div>
 
 <div class="swiper-slide">
-<img src="igner-7.png
+<img src="https://blueunicorn.github.io/TravelChina/images/Designer-7.png"/>
 </div>
 
 </div>
@@ -495,8 +496,6 @@ Get It On Google Play
 © 2026 TravelChina
 
 </footer>
-
-<script src="https://cdn.jsdelivr.net/npm/swiperndle.min.jsscript>
 
 <script>
 
