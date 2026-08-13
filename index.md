@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -396,27 +395,27 @@ Swipe, drag or wait for automatic slideshow.
 <div class="swiper-wrapper">
 
 <div class="swiper-slide">
-https://blueunicorn.github.io/TravelChina/images/Designer-1.png
+<img src="https://blueunicorn.github.io/TravelChina/images/Designer-1.png"/>
 </div>
 
 <div class="swiper-slide">
-https://blueunicorn.github.io/TravelChina/images/Designer-2.png
+<img src="https://blueunicorn.github.io/TravelChina/images/Designer-2.png"/>
 </div>
 
 <div class="swiper-slide">
-https://blueunicorn.github.io/TravelChina/images/Designer-3.png
+<img src="https://blueunicorn.github.io/TravelChina/images/Designer-3.png"/>
 </div>
 
 <div class="swiper-slide">
-https://blueunicorn.github.io/TravelChina/images/Designer-4.png
+<img src="https://blueunicorn.github.io/TravelChina/images/Designer-4.png"/>
 </div>
 
 <div class="swiper-slide">
-https://blueunicorn.github.io/TravelChina/images/Designer-5.png
+<img src="https://blueunicorn.github.io/TravelChina/images/Designer-5.png"/>
 </div>
 
 <div class="swiper-slide">
-https://blueunicorn.github.io/TravelChina/images/Designer-6.png
+<img src="https://blueunicorn.github.io/TravelChina/images/Designer-6.png"/>
 </div>
 
 <div class="swiper-slide">
