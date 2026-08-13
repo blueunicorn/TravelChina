@@ -286,13 +286,7 @@ font-size:2rem;
 
 <div class="container">
 
-<h2 class="section-title">
-App Screenshots
-</h2>
 
-<p class="section-subtitle">
-Swipe, drag or wait for automatic slideshow.
-</p>
 
 <div class="swiper screenshotSwiper">
 
