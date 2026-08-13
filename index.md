@@ -282,7 +282,62 @@ font-size:2rem;
 </head>
 
 <body>
+<section class="section gallery-section">
 
+<div class="container">
+
+<h2 class="section-title">
+App Screenshots
+</h2>
+
+<p class="section-subtitle">
+Swipe, drag or wait for automatic slideshow.
+</p>
+
+<div class="swiper screenshotSwiper">
+
+<div class="swiper-wrapper">
+
+<div class="swiper-slide">
+<img src="https://blueunicorn.github.io/TravelChina/images/Designer-1.png"/>
+</div>
+
+<div class="swiper-slide">
+<img src="https://blueunicorn.github.io/TravelChina/images/Designer-2.png"/>
+</div>
+
+<div class="swiper-slide">
+<img src="https://blueunicorn.github.io/TravelChina/images/Designer-3.png"/>
+</div>
+
+<div class="swiper-slide">
+<img src="https://blueunicorn.github.io/TravelChina/images/Designer-4.png"/>
+</div>
+
+<div class="swiper-slide">
+<img src="https://blueunicorn.github.io/TravelChina/images/Designer-5.png"/>
+</div>
+
+<div class="swiper-slide">
+<img src="https://blueunicorn.github.io/TravelChina/images/Designer-6.png"/>
+</div>
+
+<div class="swiper-slide">
+<img src="https://blueunicorn.github.io/TravelChina/images/Designer-7.png"/>
+</div>
+
+</div>
+
+<div class="swiper-pagination"></div>
+
+<div class="swiper-button-next"></div>
+<div class="swiper-button-prev"></div>
+
+</div>
+
+</div>
+
+</section>
 <section class="hero">
 
 <div class="container">
@@ -378,62 +433,7 @@ with ease.
 
 </section>
 
-<section class="section gallery-section">
 
-<div class="container">
-
-<h2 class="section-title">
-App Screenshots
-</h2>
-
-<p class="section-subtitle">
-Swipe, drag or wait for automatic slideshow.
-</p>
-
-<div class="swiper screenshotSwiper">
-
-<div class="swiper-wrapper">
-
-<div class="swiper-slide">
-<img src="https://blueunicorn.github.io/TravelChina/images/Designer-1.png"/>
-</div>
-
-<div class="swiper-slide">
-<img src="https://blueunicorn.github.io/TravelChina/images/Designer-2.png"/>
-</div>
-
-<div class="swiper-slide">
-<img src="https://blueunicorn.github.io/TravelChina/images/Designer-3.png"/>
-</div>
-
-<div class="swiper-slide">
-<img src="https://blueunicorn.github.io/TravelChina/images/Designer-4.png"/>
-</div>
-
-<div class="swiper-slide">
-<img src="https://blueunicorn.github.io/TravelChina/images/Designer-5.png"/>
-</div>
-
-<div class="swiper-slide">
-<img src="https://blueunicorn.github.io/TravelChina/images/Designer-6.png"/>
-</div>
-
-<div class="swiper-slide">
-<img src="https://blueunicorn.github.io/TravelChina/images/Designer-7.png"/>
-</div>
-
-</div>
-
-<div class="swiper-pagination"></div>
-
-<div class="swiper-button-next"></div>
-<div class="swiper-button-prev"></div>
-
-</div>
-
-</div>
-
-</section>
 
 <section class="section why">
 
